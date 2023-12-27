@@ -39,19 +39,19 @@ To install and run the RPG game, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/simple-adventure.git
+   git clone https://github.com/ArijAziz/RPG_using_oop-by-Arij-aziz-and-Wahhaj-Waheed.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd simple-adventure
+   cd RPG Game
    ```
 
 3. Compile the source code using the appropriate compiler commands (e.g., `g++`):
 
    ```bash
-   g++ -o simple_adventure main.cpp
+   g++ -o Hopefully Final RPG.cpp
    ```
 
 ## Usage
@@ -59,7 +59,7 @@ To install and run the RPG game, follow these steps:
 Once you have compiled the source code, execute the game by running the generated executable:
 
 ```bash
-./rpg game
+./RPG Game
 ```
 
 Follow the on-screen instructions to navigate through the game, make decisions, engage in battles, and progress through quests.
