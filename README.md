@@ -12,7 +12,9 @@ Welcome to the repository for the RPG game. This README provides a comprehensive
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
+7. [Learning_Achievements](#learning_achievements)
+8. [DEMO](#demo)
+9. [License](#license)
 
 ## Introduction
 
@@ -74,6 +76,17 @@ We welcome contributions from the community to enhance the "Simple Adventure" RP
 4. Submit a pull request detailing the changes made.
 
 For major enhancements or feature additions, please open an issue to discuss the proposed changes before submitting a pull request.
+
+## Learning_Achievements 
+What we have gained by creating this project
+1. Fundamental logic programming of applications
+2. Data exception handling
+3. Fundamental optimization techniques
+4. Core OOP programming concepts such as inheritance, typedefs, virtualization, prototyping, nodiscard, data encapsulation, etc.
+
+## DEMO
+
+![work](https://github.com/ArijAziz/RPG_using_oop-by-Arij-aziz-and-Wahhaj-Waheed/assets/154950002/4c4a8ffe-ab55-48c4-855d-6f84edda4219)
 
 
 Sources used are down below
